@@ -1,6 +1,6 @@
 ## 欢迎来到我的博客
 
-我的项目 [editor on GitHub](https://github.com/lya16/lya16.github.io/edit/master/index.md) 
+我的项目 [editor on GitHub](https://github.com/lya16/lya16.github.io) 
 
 # HTML5,CSS
 
