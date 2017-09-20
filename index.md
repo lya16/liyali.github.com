@@ -1,25 +1,28 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的博客
 
-You can use the [editor on GitHub](https://github.com/lya16/lya16.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+我的项目 [editor on GitHub](https://github.com/lya16/lya16.github.io/edit/master/index.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# HTML5,CSS
 
-### Markdown
+# JavaScript
+## jquery
+## DOM
+## JSON
+### validate.js
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- Sublime Text
+- Hbuilder
 
-- Bulleted
-- List
+1. Eclipse
 
-1. Numbered
-2. List
+** 前端 **
+'UI'
+
+[https://guides.github.com/features/mastering-markdown/]
+
+![http://image.baidu.com/search/detail?ct=503316480&z=0&tn=baiduimagedetail&ipn=d&cl=2&cm=1&sc=0&lm=-1&ie=gbk&pn=12&rn=1&di=10833862510&ln=30&word=%CD%BC%C6%AC&os=3506071513,1285861574&cs=311782928,2124121112&objurl=http%3A%2F%2Fimg.1ppt.com%2Fuploads%2Fallimg%2F1305%2F1-130516091446402.jpg&bdtype=13&simid=0,0&pi=0&adpicid=0&timingneed=0&spn=0&is=0,0&fr=ala&ala=1&alatpl=others&pos=1]
 
 **Bold** and _Italic_ and `Code` text
 
